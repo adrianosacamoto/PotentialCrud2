@@ -1,0 +1,16 @@
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Service.deps.json
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Service.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\ref\Service.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Service.pdb
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Data.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Domain.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Domain.pdb
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\bin\Debug\net5.0\Data.pdb
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\ref\Service.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Service\obj\Debug\net5.0\Service.pdb

@@ -1,0 +1,5 @@
+C:\Git\potentialCrud2\src\PotentialCrud2.Data.Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Git\potentialCrud2\src\PotentialCrud2.Data.Test\obj\Debug\netcoreapp3.1\PotentialCrud2.Data.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\potentialCrud2\src\PotentialCrud2.Data.Test\obj\Debug\netcoreapp3.1\PotentialCrud2.Data.Test.AssemblyInfoInputs.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Data.Test\obj\Debug\netcoreapp3.1\PotentialCrud2.Data.Test.AssemblyInfo.cs
+C:\Git\potentialCrud2\src\PotentialCrud2.Data.Test\obj\Debug\netcoreapp3.1\PotentialCrud2.Data.Test.csproj.CoreCompileInputs.cache

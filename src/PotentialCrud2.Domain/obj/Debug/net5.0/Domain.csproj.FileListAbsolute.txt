@@ -1,0 +1,12 @@
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\bin\Debug\net5.0\Domain.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\bin\Debug\net5.0\Domain.pdb
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Git\potentialCrud2\src\PotentialCrud2.Domain\obj\Debug\net5.0\Domain.pdb

@@ -1,0 +1,3 @@
+C:\Git\potentialCrud2\src\dist\Domain.dll
+C:\Git\potentialCrud2\src\dist\Domain.deps.json
+C:\Git\potentialCrud2\src\dist\Domain.pdb
